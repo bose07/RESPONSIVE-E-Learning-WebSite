@@ -1,5 +1,5 @@
 # RESPONSIVE-E-Learning-WebSite
-![Screenshot (189)](https://user-images.githubusercontent.com/56763840/94468906-cab49100-01e2-11eb-9158-e646fe8d9205.png)
+
 ![image](https://user-images.githubusercontent.com/56763840/94469951-8e823000-01e4-11eb-80aa-a8717760f266.png)
 ![image](https://user-images.githubusercontent.com/56763840/94469997-a2c62d00-01e4-11eb-8536-484568b576c8.png)
 
